@@ -1,3 +1,5 @@
+//http://www.clubedohardware.com.br/forums/topic/1134300-esp8266-a-pequena-maravilha-para-comunica%C3%A7%C3%A3o-wifi/?page=85
+// /\ link de como fazer autenticação
 #include <PubSubClient.h>
 #include "DHT.h"
 #include <ESP8266WiFi.h>
